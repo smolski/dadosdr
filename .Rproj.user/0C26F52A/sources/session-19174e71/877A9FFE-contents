@@ -1,0 +1,12 @@
+theme: hugo-arcana-main
+params:
+  enableSourceMaps: yes
+  footer:
+    contact_form:
+      enabled: no
+    links: {}
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
