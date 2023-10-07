@@ -31,9 +31,9 @@ items:
     heading: Recent Posts
     content_type: posts
     max: 4
-  - type: noticias
-    heading: Notícias
-    content_type: noticias
+  - type: novidades
+    heading: Novidades
+    content_type: novidades
     max: 4    
   - type: cta
     contents: Quer participar de eventos locais, regionais, nacionais e internacionais?
