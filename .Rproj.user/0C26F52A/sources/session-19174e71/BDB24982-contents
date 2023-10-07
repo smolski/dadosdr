@@ -1,7 +1,4 @@
 [[main]]
-    name = "Notícias"
-    weight = 30
-[[main]]
     name = "Dropdown"
     weight = 30
 [[main]]
