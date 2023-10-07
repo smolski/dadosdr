@@ -14,19 +14,19 @@ items:
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
-      icon: fa-pencil-alt
+    - title: Regiões
+      icon: fa-solid fa-map
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
-      icon: fa-wrench
+    - title: Publicações
+      icon: fa-solid fa-book
       content: >
         Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
   - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
+    heading: Uma base de dados de conhecimento regional
+    contents: Contribuição local ao desenvolvimento
   - type: posts
     #heading: Recent Posts
     content_type: posts
