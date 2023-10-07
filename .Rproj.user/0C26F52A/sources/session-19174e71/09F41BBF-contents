@@ -7,7 +7,7 @@ banner:
     #url: "#"
 items:
   - type: posts
-    heading: Recent Posts
+    heading: Posts Recentes
     content_type: posts
     max: 4
   - type: highlights
