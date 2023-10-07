@@ -3,7 +3,7 @@
     "path": "D:/Github/dadosdr/config/_default/menus.toml",
     "project_path": "config/_default/menus.toml",
     "type": "toml",
-    "hash": "2337384692",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1696705484834.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "0,0",
+        "cursorPosition": "7,8",
         "scrollLine": "0"
     },
     "folds": "",
