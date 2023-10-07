@@ -2,5 +2,5 @@
 menu: main
 title: Novidades
 weight: 20
-sidebar_left: sidebar1
+sidebar_right: sidebar1
 ---
