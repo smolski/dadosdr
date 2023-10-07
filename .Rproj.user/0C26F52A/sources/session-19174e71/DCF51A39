@@ -1,14 +1,14 @@
 {
-    "id": "ED5A0B7C",
-    "path": "D:/Github/dadosdr/index.Rmd",
-    "project_path": "index.Rmd",
-    "type": "r_markdown",
-    "hash": "2620246966",
+    "id": "DCF51A39",
+    "path": "D:/Github/dadosdr/content/Noticias/third.md",
+    "project_path": "content/Noticias/third.md",
+    "type": "markdown",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1696703746125.0,
+    "created": 1696705745804.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 15,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
