@@ -1,5 +1,5 @@
 ---
 menu: main
 title: Notícias
-weight: 20
+weight: 10
 ---

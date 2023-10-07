@@ -1,6 +1,6 @@
 [[main]]
     name = "Notícias"
-    weight = 30
+    weight = 20
 [[main]]
     name = "Dropdown"
     weight = 30
