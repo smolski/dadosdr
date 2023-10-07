@@ -36,3 +36,8 @@ items:
     button:
       contents: Clique aqui
       url: "#"
+  - type: cta
+    contents: Processos seletivos
+    button:
+      contents: Clique aqui
+      url: "#"
