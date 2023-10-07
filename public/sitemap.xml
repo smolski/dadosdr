@@ -4,7 +4,12 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/noticias/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,7 +34,32 @@
   </url>
   
   <url>
+    <loc>/tags/example/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/lorem-ipsum/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/noticias/fifth/</loc>
+    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/noticias/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url>
   
@@ -59,17 +89,12 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/duis-neque/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/example/</loc>
+    <loc>/noticias/sixth/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,13 +104,13 @@
   </url>
   
   <url>
-    <loc>/tags/lorem-ipsum/</loc>
+    <loc>/posts/fifth/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/fifth/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <loc>/noticias/fourth/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -94,13 +119,28 @@
   </url>
   
   <url>
+    <loc>/noticias/third/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/third/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/noticias/second/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/second/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/noticias/first/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

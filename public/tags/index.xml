@@ -5,7 +5,25 @@
     <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>example</title>
+      <link>/tags/example/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lorem ipsum</title>
+      <link>/tags/lorem-ipsum/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>plot</title>
       <link>/tags/plot/</link>
@@ -39,24 +57,6 @@
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/duis-neque/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>example</title>
-      <link>/tags/example/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lorem ipsum</title>
-      <link>/tags/lorem-ipsum/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lorem-ipsum/</guid>
       <description></description>
     </item>
     
