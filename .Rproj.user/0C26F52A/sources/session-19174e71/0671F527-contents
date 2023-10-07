@@ -28,7 +28,7 @@ items:
     heading: Uma base de dados de conhecimento regional
     contents: Contribuição local ao desenvolvimento
   - type: posts
-    #heading: Recent Posts
+    heading: Recent Posts
     content_type: posts
     max: 4
   - type: cta
