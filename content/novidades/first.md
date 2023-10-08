@@ -1,12 +1,14 @@
 ---
 date: 2020-01-01T00:00:00
-image: images/pic01.jpg
+image: images/livro-claudia.png
 tags:
 - example
 - lorem ipsum
-title: The First Thing
+title: E-book Publicado – Políticas Públicas para a Ressocialização de Mulheres Privadas de Liberdade
 ---
-Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet
-mattis, sed a rutrum accumsan sed. Suspendisse eu.
-<!-- more -->
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.
+Cláudia Jussara Harlos Heck, egressa do Mestrado em Desenvolvimento e Políticas Públicas da Universidade Federal da Fronteira Sul (UFFS), campus Cerro Largo-RS, publicou livro intitulado: Políticas Públicas para a Ressocialização de Mulheres Privadas de Liberdade, fruto da sua dissertação.
+
+O mesmo encontra-se na forma de e-book e também impresso.
+
+Clique (AQUI)[https://editorailustracao.com.br/livro/politicas-publicas-para-a-ressocializacao-de-mulheres-privadas-de-liberdade] para acessar o e-book.
+
