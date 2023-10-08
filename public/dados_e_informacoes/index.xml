@@ -6,15 +6,5 @@
     <description>Recent content in Dados on </description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/dados_e_informacoes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bases de dados nacionais</title>
-      <link>/dados_e_informacoes/banco_de_dados/first/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/dados_e_informacoes/banco_de_dados/first/</guid>
-      <description>Base - fonte	Endereço
-Atlas do Desenvolvimento Humano no Brasil	http://www.atlasbrasil.org.br/ Atlas Socioeconômico Rio Grande do Sul	https://atlassocioeconomico.rs.gov.br/ Bacen – ESTBAN – Estatística Bancária Mensal por município	https://www4.bcb.gov.br/fis/cosif/estban.asp?frame=1 Banco Central – SGS – Sistema Gerenciador de Séries Temporais https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries CADPREV – Sistema de Informações dos Regimes Públicos de Previdência Social	https://cadprev.previdencia.gov.br/Cadprev/pages/index.xhtml Centro de Estudos Avançados em Economia Aplicada – CEPEA-Esalq/USP.	https://www.cepea.esalq.usp.br/br Conab	https://www.conab.gov.br/ DataSus	https://datasus.saude.gov.br/ DataViva	http://dataviva.info/pt/ DIEESE – Departamento Intersindical de Estatística e Estudos Socioeconômicos	https://www.</description>
-    </item>
-    
   </channel>
 </rss>
