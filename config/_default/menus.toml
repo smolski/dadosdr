@@ -47,6 +47,9 @@
     name = "Dropdown"
     weight = 30
 [[main]]
+    name = "Dados"
+    weight = 30
+[[main]]
     parent = "Dados"
     name = "Bancos de Dados"
     weight = 31
