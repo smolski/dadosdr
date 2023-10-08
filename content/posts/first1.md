@@ -2,8 +2,8 @@
 date: 2023-01-01T00:00:00
 image: 
 tags:
-- example
-- lorem ipsum
+- homenagem
+- câmara de Vereadores
 title: Pesquisadores do Campus Cerro Largo recebem homenagem da Câmara de Vereadores
 ---
 
