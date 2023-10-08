@@ -30,7 +30,8 @@ items:
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
     - title: Qualis CAPES
       icon: fa-solid fa-book
-      contents: Clique aqui
+      contents: > 
+        Clique aqui
       button:
         contents: Clique aqui
         url: "https://dadosdr.uffs.edu.br/qualis/"
