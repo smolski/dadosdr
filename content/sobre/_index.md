@@ -1,13 +1,12 @@
 ---
 menu: main
 title: Sobre
-weight: 21
+weight: 41
 ---
 
+O Laboratório de Desenvolvimento regional constitui-se em um ambiente virtual que pretende reunir, armazenar e integrar dados e informações, ideias e debates acerca do desenvolvimento regional.
 
-<p>O Laboratório de Desenvolvimento regional constitui-se em um ambiente virtual que pretende reunir, armazenar e integrar dados e informações, ideias e debates acerca do desenvolvimento regional.</p>
-
-<p>Trata-se de um espaço que será importante para a divulgação de  pesquisas, estudos, informações, notícias, opiniões, além da produção acadêmica e científica dos pesquisadores associados.</p>
+Trata-se de um espaço que será importante para a divulgação de  pesquisas, estudos, informações, notícias, opiniões, além da produção acadêmica e científica dos pesquisadores associados.
 
 
 <p><a href="https://scholar.google.com/citations?hl=pt-BR&amp;user=ja52_GQAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Acadêmico</a></p>
