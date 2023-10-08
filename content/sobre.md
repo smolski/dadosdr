@@ -1,7 +1,7 @@
 ---
 menu: main
 title: Sobre
-weight: 41
+weight: 50
 ---
 
 O Laboratório de Desenvolvimento regional constitui-se em um ambiente virtual que pretende reunir, armazenar e integrar dados e informações, ideias e debates acerca do desenvolvimento regional.
