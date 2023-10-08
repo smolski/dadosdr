@@ -1,7 +1,7 @@
 ---
 date: 2023-01-01T00:00:00
 menu: dados_e_informacoes/banco_de_dados
-image: 
+image: images/logo_branca.jpg
 tags:
 - dados
 - bases
