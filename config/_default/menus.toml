@@ -44,9 +44,6 @@
     name = "Veroeros feugiat"
     weight = 40
 [[main]]
-    name = "Dropdown"
-    weight = 30
-[[main]]
     name = "Dados"
     weight = 30
 [[main]]
