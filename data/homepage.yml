@@ -30,9 +30,10 @@ items:
         amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
     - title: Qualis CAPES
       icon: fa-solid fa-book
-      button:
       contents: Clique aqui
-      url: "https://dadosdr.uffs.edu.br/qualis/"
+      button:
+        contents: Clique aqui
+        url: "https://dadosdr.uffs.edu.br/qualis/"
   - type: cta
     contents: Processos seletivos
     button:
