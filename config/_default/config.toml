@@ -77,9 +77,9 @@ copyright = "© Organization for Human Brain Mapping - Diversity and Inclusivity
             action = "mailto:ohbmdic@gmail.com"
 
 [[module.mounts]]
-source = 'static'
-target = 'static'
+source = 'public'
+target = 'public'
 
 [[module.mounts]]
 source = 'images'
-target = 'static/images'
+target = 'public/images'
