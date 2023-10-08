@@ -63,3 +63,12 @@
     parent = "Dados"
     name = "Qualis (CAPES)"
     weight = 31
+[menu]
+[[menu.footer]]
+    name = 'Terms'
+    pageRef = '/terms'
+    weight = 10
+[[menu.footer]]
+    name = 'Privacy'
+    pageRef = '/privacy'
+    weight = 20
