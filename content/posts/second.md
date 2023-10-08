@@ -4,7 +4,7 @@ image: images/livro_tec_sociais.jpeg
 tags:
 - tecnologias sociais
 - livro
-title: E-book Publicado – Tecnologias Sociais: construindo debates sobre políticas públicas para o desenvolvimento
+title: E-book Publicado – Tecnologias Sociais
 ---
 A presente obra possui o objetivo de contemplar as discussões obtidas a partir do projeto de pesquisa intitulado “Mapeamento das organizações cooperativas existentes na Região Noroeste do estado do Rio Grande do Sul, identificando requisitos e competências para a inovação, transformação digital e perspectivas da modelagem do cooperativismo de plataforma”, aprovado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), na Chamada CNPq/SESCOOP Nº11/2022 – Pesquisa em Cooperativismo. Além disso, o presente trabalho consiste em um compêndio de estudos desenvolvidos por professores, alunos e colaboradores do Programa de Pós-Graduação em Desenvolvimento e Políticas Públicas (PPGDPP) da Universidade Federal da Fronteira Sul (UFFS), campus Cerro Largo/RS.
 
