@@ -49,6 +49,7 @@
 [[main]]
     parent = "Dados"
     name = "Bancos de Dados"
+    url = "/dados_e_informacoes/banco_de_dados"
     weight = 31
 [[main]]
     parent = "Dados"
