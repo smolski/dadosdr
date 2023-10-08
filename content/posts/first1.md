@@ -7,7 +7,7 @@ tags:
 title: Pesquisadores do Campus Cerro Largo recebem homenagem da Câmara de Vereadores
 ---
 
-<iframe width="560" height="315" src="https://fb.watch/jtW3y9C1b6/" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fuffs.campuscerrolargo%2Fvideos%2F612830170861350%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 
 A Câmara de Vereadores de Cerro Largo homenageou professores da UFFS – Campus Cerro Largo com uma moção de aplauso, em solenidade realizada no dia 21 de março.A pesquisa acadêmica é uma das principais atividades desenvolvidas pelos docentes e esse reconhecimento é uma demonstração de que os servidores da Universidade estão atuando em nível de excelência. Para o grupo, a homenagem também serve como incentivo para que a UFFS continue a investir em pesquisa e a produzir conhecimento de qualidade, contribuindo para o desenvolvimento da região e do país como um todo.
