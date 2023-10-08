@@ -10,5 +10,5 @@ Cláudia Jussara Harlos Heck, egressa do Mestrado em Desenvolvimento e Política
 
 O mesmo encontra-se na forma de e-book e também impresso.
 
-Clique (AQUI)[https://editorailustracao.com.br/livro/politicas-publicas-para-a-ressocializacao-de-mulheres-privadas-de-liberdade] para acessar o e-book.
+Clique [AQUI](https://editorailustracao.com.br/livro/politicas-publicas-para-a-ressocializacao-de-mulheres-privadas-de-liberdade) para acessar o e-book.
 
