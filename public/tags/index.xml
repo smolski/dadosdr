@@ -5,20 +5,74 @@
     <link>/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>duis neque</title>
-      <link>/tags/duis-neque/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <title>livro</title>
+      <link>/tags/livro/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/duis-neque/</guid>
+      <guid>/tags/livro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tecnologias sociais</title>
+      <link>/tags/tecnologias-sociais/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tecnologias-sociais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bases</title>
+      <link>/tags/bases/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>câmara de Vereadores</title>
+      <link>/tags/c%C3%A2mara-de-vereadores/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/c%C3%A2mara-de-vereadores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dados</title>
+      <link>/tags/dados/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dados/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homenagem</title>
+      <link>/tags/homenagem/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/homenagem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ressocoalização</title>
+      <link>/tags/ressocoaliza%C3%A7%C3%A3o/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ressocoaliza%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     
     <item>
       <title>example</title>
       <link>/tags/example/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/example/</guid>
       <description></description>
@@ -27,9 +81,18 @@
     <item>
       <title>lorem ipsum</title>
       <link>/tags/lorem-ipsum/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/lorem-ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>duis neque</title>
+      <link>/tags/duis-neque/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/duis-neque/</guid>
       <description></description>
     </item>
     

@@ -4,17 +4,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/novidades/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dados_e_informacoes/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,47 +34,72 @@
   </url>
   
   <url>
-    <loc>/tags/duis-neque/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <loc>/posts/second/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/example/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <loc>/tags/livro/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/novidades/sixth/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <loc>/tags/tecnologias-sociais/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/sixth/</loc>
-    <lastmod>2020-01-06T00:00:00+00:00</lastmod>
+    <loc>/tags/bases/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/dados_e_informacoes/banco_de_dados/first/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/c%C3%A2mara-de-vereadores/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dados/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/first/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/homenagem/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/first1/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ressocoaliza%C3%A7%C3%A3o/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/example/</loc>
+    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/lorem-ipsum/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/novidades/fifth/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/fifth/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/novidades/fourth/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,33 +109,13 @@
   </url>
   
   <url>
-    <loc>/novidades/third/</loc>
+    <loc>/tags/duis-neque/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/third/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/novidades/second/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/second/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/novidades/first/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/first/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

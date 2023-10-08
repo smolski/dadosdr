@@ -5,25 +5,34 @@
     <link>/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Sixth Thing</title>
-      <link>/posts/sixth/</link>
-      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <title>E-book Publicado – Tecnologias Sociais</title>
+      <link>/posts/second/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/sixth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+      <guid>/posts/second/</guid>
+      <description>A presente obra possui o objetivo de contemplar as discussões obtidas a partir do projeto de pesquisa intitulado “Mapeamento das organizações cooperativas existentes na Região Noroeste do estado do Rio Grande do Sul, identificando requisitos e competências para a inovação, transformação digital e perspectivas da modelagem do cooperativismo de plataforma”, aprovado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), na Chamada CNPq/SESCOOP Nº11/2022 – Pesquisa em Cooperativismo. Além disso, o presente trabalho consiste em um compêndio de estudos desenvolvidos por professores, alunos e colaboradores do Programa de Pós-Graduação em Desenvolvimento e Políticas Públicas (PPGDPP) da Universidade Federal da Fronteira Sul (UFFS), campus Cerro Largo/RS.</description>
     </item>
     
     <item>
-      <title>The Fifth Thing</title>
-      <link>/posts/fifth/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <title>E-book Publicado – Políticas Públicas para a Ressocialização de Mulheres Privadas de Liberdade</title>
+      <link>/posts/first/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/fifth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+      <guid>/posts/first/</guid>
+      <description>Cláudia Jussara Harlos Heck, egressa do Mestrado em Desenvolvimento e Políticas Públicas da Universidade Federal da Fronteira Sul (UFFS), campus Cerro Largo-RS, publicou livro intitulado: Políticas Públicas para a Ressocialização de Mulheres Privadas de Liberdade, fruto da sua dissertação.
+O mesmo encontra-se na forma de e-book e também impresso.
+Clique AQUI para acessar o e-book.</description>
+    </item>
+    
+    <item>
+      <title>Pesquisadores do Campus Cerro Largo recebem homenagem da Câmara de Vereadores</title>
+      <link>/posts/first1/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first1/</guid>
+      <description>A Câmara de Vereadores de Cerro Largo homenageou professores da UFFS – Campus Cerro Largo com uma moção de aplauso, em solenidade realizada no dia 21 de março.A pesquisa acadêmica é uma das principais atividades desenvolvidas pelos docentes e esse reconhecimento é uma demonstração de que os servidores da Universidade estão atuando em nível de excelência. Para o grupo, a homenagem também serve como incentivo para que a UFFS continue a investir em pesquisa e a produzir conhecimento de qualidade, contribuindo para o desenvolvimento da região e do país como um todo.</description>
     </item>
     
     <item>
@@ -42,26 +51,6 @@ Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/third/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The Second Thing</title>
-      <link>/posts/second/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/second/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The First Thing</title>
-      <link>/posts/first/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/first/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>

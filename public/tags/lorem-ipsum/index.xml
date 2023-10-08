@@ -5,63 +5,13 @@
     <link>/tags/lorem-ipsum/</link>
     <description>Recent content in lorem ipsum on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/lorem-ipsum/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Fifth Thing</title>
-      <link>/novidades/fifth/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/novidades/fifth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The Fifth Thing</title>
-      <link>/posts/fifth/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/fifth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The Fourth Thing</title>
-      <link>/novidades/fourth/</link>
-      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/novidades/fourth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
+    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/lorem-ipsum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Fourth Thing</title>
       <link>/posts/fourth/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/fourth/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The First Thing</title>
-      <link>/novidades/first/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/novidades/first/</guid>
-      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>The First Thing</title>
-      <link>/posts/first/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/first/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
