@@ -1,10 +1,13 @@
 banner:
   enable: true
   image: "images/banner1.jpg"
-  #contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
-  #button:
-    #contents: "Learn More"
-    #url: "#"
+  content: "" # Change this if you want something other then the site description
+  buttons:
+    - title: "Sign Up"
+      link: "#"
+      class: "primary"
+    - title: "Learn More"
+      link: "#"
 items:
   - type: posts
     heading: Recentes
