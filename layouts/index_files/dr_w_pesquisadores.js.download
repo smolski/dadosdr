@@ -1,0 +1,23 @@
+jQuery(document).ready(function () {
+    jQuery(".dr_w_opcoes_input").click(function(e) {
+        jQuery(".dr_w_pesquisadores_linha").addClass('dr_w_pesquisador_invisivel');
+        jQuery('.dr_w_opcoes_input:checkbox:checked').each(function () {
+            //alert('.dr_w_pesquisadores_'+jQuery(this).val());
+            jQuery('.dr_w_pesquisadores_'+jQuery(this).val()).removeClass('dr_w_pesquisador_invisivel');
+        });
+        //jQuery(".dr_w_pesquisadores_linha").removeClass('dr_w_lista_cor1');
+        //jQuery(".dr_w_pesquisadores_linha").removeClass('dr_w_lista_cor2');
+        //var i = 0;
+        jQuery('.dr_w_pesquisadores_linha').each(function () {
+            /*if (! jQuery(this).hasClass('dr_w_pesquisador_invisivel')) {
+                wclass = 'dr_w_lista_cor1';
+                if (i % 2 == 1) {
+                    wclass = 'dr_w_lista_cor2';
+                }
+                jQuery(this).addClass(wclass);
+                i = i + 1;
+            }*/
+            jQuery('.dr_w_pesquisadores_'+jQuery(this).val()).removeClass('dr_w_pesquisador_invisivel');
+        });
+    });
+});

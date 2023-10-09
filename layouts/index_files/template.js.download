@@ -1,0 +1,30 @@
+jQuery(document).ready(function () {
+    /*
+    jQuery("#ddr_search").focusin(function () {
+        jQuery("#ddr_advanced_search").show();
+    });
+    jQuery("#ddr_search").focusout(function (e) {
+        //window.setTimeout(function() { jQuery("#ddr_advanced_search").hide() }, 1000);
+    });
+    jQuery( "#ddr_advanced_search" ).click(function(e) {
+        //jQuery("#ddr_container_search").show();
+        alert("xxx");
+        jQuery("#ddr_container_search").removeClass("ddr_inativo");
+    });
+    jQuery( "#ddr_search_close" ).click(function(e) {
+        //jQuery("#ddr_container_search").hide();
+        alert("yyy");
+        jQuery("#ddr_container_search").addClass("ddr_inativo");
+    });
+    */
+    jQuery("#ddr_search_menu").click(function(e) {
+        jQuery("#ddr_search_quadro").show();
+    });
+    document.addEventListener('mouseup', function(e) {
+        var container = document.getElementById('ddr_search_quadro');
+        if (!container.contains(e.target)) {
+            container.style.display = 'none';
+        }
+    });
+});
+
