@@ -2,5 +2,6 @@
 menu: main
 title: Início
 weight: 1
-sidebar_left: sidebar1
 ---
+
+{{ partial "layouts/partials/sidebar/sidebar1.html" $page }}
