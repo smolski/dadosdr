@@ -5,7 +5,6 @@ banner:
   button:
     contents: "Learn More"
     url: "#"
-  button:
     contents: "Learn More2"
     url: "#"
 items:
