@@ -2,11 +2,9 @@ banner:
   enable: true
   image: "images/banner1.jpg"
   #contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
-  button:
-    contents: "Learn More"
-    url: "#"
-    contents: "Learn More2"
-    url: "#"
+  #button:
+    #contents: "Learn More"
+    #url: "#"
 items:
   - type: posts
     heading: Recentes
