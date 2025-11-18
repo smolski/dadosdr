@@ -7,6 +7,10 @@ tags:
 - bases
 title: Bases de dados nacionais
 ---
+
+
+<iframe src="https://smolski.shinyapps.io/Siconfi-RS"style="position: absolute; width: 80%; height: 80%; border: none"></iframe>
+
 | Base/fonte 	| Endereço 	|
 |---	|---	|
 | Atlas do Desenvolvimento Humano no Brasil 	| http://www.atlasbrasil.org.br/ 	|
