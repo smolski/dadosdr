@@ -1,4 +1,4 @@
-theme: html5up-zerofour
+theme: hugo-arcana-main
 params:
   enableSourceMaps: yes
   footer:
