@@ -11,6 +11,9 @@ tags:
 title: Left Sidebar
 weight: 50
 ---
+
+<iframe src="https://smolski.shinyapps.io/Siconfi-RS"style="position: absolute; width: 80%; height: 80%; border: none"></iframe>
+
 Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
 Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
 Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
