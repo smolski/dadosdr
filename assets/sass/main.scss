@@ -1338,20 +1338,20 @@
                 .toggle {
                     @include icon(false, solid);
                     border: 0;
-                    height: 60px;
+                    height: 6px;
                     left: 0;
                     position: absolute;
                     top: 0;
-                    width: 80px;
+                    width: 8px;
                     z-index: 2;
 
                     &:before {
                         content: '\f0c9';
                         display: block;
-                        height: 44px;
+                        height: 4px;
                         line-height: inherit;
                         text-align: center;
-                        width: 44px;
+                        width: 4px;
                         color: #fff;
                         opacity: 0.5;
                     }
